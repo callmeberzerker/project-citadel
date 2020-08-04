@@ -3637,13 +3637,6 @@
     text-table "^0.2.0"
     webpack-log "^1.1.2"
 
-"@welldone-software/why-did-you-render@^4.2.2":
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/@welldone-software/why-did-you-render/-/why-did-you-render-4.2.2.tgz#720128a4f626997ece1ac455a7b13f9ef10dae0a"
-  integrity sha512-v08t2WXFQdnxkPodXzbPeho3FwgrlwzjwxasN+8A1LSZnkcxJpYvOF8/z+OySqehC44JT6oPB1KEnBVMrebHdw==
-  dependencies:
-    lodash "^4"
-
 "@wry/context@^0.4.0":
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/@wry/context/-/context-0.4.4.tgz#e50f5fa1d6cfaabf2977d1fda5ae91717f8815f8"
@@ -3759,18 +3752,6 @@ adjust-sourcemap-loader@2.0.0:
     loader-utils "1.2.3"
     object-path "0.11.4"
     regex-parser "2.2.10"
-
-ag-grid-community@^23.2.0:
-  version "23.2.0"
-  resolved "https://registry.yarnpkg.com/ag-grid-community/-/ag-grid-community-23.2.0.tgz#889f52e8eb91c167c2ac7477938cbf498a54f67c"
-  integrity sha512-aG7Ghfu79HeqOCd50GhFSeZUX1Tw9BVUX1VKMuglkAcwYPTQjuYvYT7QVQB5FGzfFjcVq4a1QFfcgdoAcZYJIA==
-
-ag-grid-react@^23.2.0:
-  version "23.2.0"
-  resolved "https://registry.yarnpkg.com/ag-grid-react/-/ag-grid-react-23.2.0.tgz#00a54cb4e83c0d35a49c202e5833e3bb20d8cfa8"
-  integrity sha512-lDGV+WX0Nj5biNOJRSErFehXG+nqkbuXPMS7YJxEDWJLJxtOF0INP5sL6dtxV12j/XHqXa+M2CgQBXZWZq+EWg==
-  dependencies:
-    prop-types "^15.6.2"
 
 agent-base@4, agent-base@^4.3.0:
   version "4.3.0"
@@ -10684,7 +10665,7 @@ lodash.xorby@^4.7.0:
   resolved "https://registry.yarnpkg.com/lodash.xorby/-/lodash.xorby-4.7.0.tgz#9c19a6f9f063a6eb53dd03c1b6871799801463d7"
   integrity sha1-nBmm+fBjputT3QPBtocXmYAUY9c=
 
-lodash@4.17.15, "lodash@>=3.5 <5", lodash@^4, lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5:
+lodash@4.17.15, "lodash@>=3.5 <5", lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
